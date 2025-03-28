@@ -1,0 +1,77 @@
+<nastavnici>
+  <!-- za svakog nastavnika se kreira čvor 'nastavnik' unutar kojeg se definiraju materijali: -->
+  <nastavnik id='KriKoc'> 
+    <ime>Kristina Kocijan</ime>
+    <zupanija>Dubrovačko-neretvanska</zupanija>
+    <zadacnice>
+      <materijali id='KriKoc1'>
+        <materijal_primljen> 15.10.2024.</materijal_primljen>
+        <privola_primljena> 15.10.2024.</privola_primljena>
+        <materijal_transkripcija_pocetak>30.10.2024.</materijal_transkripcija_pocetak>
+        <materijal_transkripcija_osoba>Petra P.</materijal_transkripcija_osoba>
+        <materijal_provjera_pocetak>15.11.2024.</materijal_provjera_pocetak>
+        <materijal_potrebna_pomoc_nastavnika>Da</materijal_potrebna_pomoc_nastavnika>
+        <materijal_poslano_nastavniku_na_doradu>16.11.2024.</materijal_poslano_nastavniku_na_doradu>
+        <materijal_nastavnik_vratio_s_dorade>18.11.2024.</materijal_nastavnik_vratio_s_dorade>
+        <broj_obradjenih_materijala>75</broj_obradjenih_materijala>
+        <potrebno_obraditi>35</potrebno_obraditi>
+        <potvrda_uvjet>Ne</potvrda_uvjet>
+        <potvrda_steceni_uvjeti></potvrda_steceni_uvjeti>
+        <potvrda>
+          <![CDATA[ <p>Hvala vam na pripremi i predanim materijalima! 🧐 Trenutno naši vrijedni pomoćnici rade na unosu materijala koje ste nam poslali, a kako bismo bili sigurni da je sve u skladu s uvjetima, trebat će nam još malo vremena. Vaš trud je neizmjerno vrijedan – čim se proces završi, potvrda će biti spremna! Hvala što ste uz nas u ovom projektu. 🌟</p> ]]>
+        </potvrda>
+      </materijali>
+      <!-- Ako ista osoba pošalje više setova materijala: -->
+      <materijali id='KriKoc2'>
+        <materijal_primljen> 15.10.2024.</materijal_primljen>
+        <privola_primljena> 15.10.2024.</privola_primljena>
+        <materijal_transkripcija_pocetak>30.10.2024.</materijal_transkripcija_pocetak>
+        <materijal_transkripcija_osoba>Petra P.</materijal_transkripcija_osoba>
+        <materijal_provjera_pocetak>15.11.2024.</materijal_provjera_pocetak>
+        <broj_obradjenih_materijala>120</broj_obradjenih_materijala>
+        <potrebno_obraditi>0</potrebno_obraditi>
+        <potvrda_uvjet>Da</potvrda_uvjet>
+        <potvrda_steceni_uvjeti>1.12.2025.</potvrda_steceni_uvjeti>
+        <potvrda>
+          <![CDATA[ <p>Čestitamo! 🎉 Vaše strpljenje i trud su se isplatili – došli smo do kraja obrade materijala koje ste nam poslali. Veliko hvala na vašem trudu, vremenu i doprinosu projektu – bez vas ovo ne bi bilo moguće. Vaša potvrda o sudjelovanju sada je spremna i možete je preuzeti. 🏆 <a src="KriKoc2.pdf">POTVRDA</a> Još jednom, hvala što ste dio našeg tima – radujemo se budućoj suradnji! 🌟 </p>]]>
+        </potvrda>
+      </materijali>
+	</zadacnice>
+  </nastavnik>
+	
+	<nastavnik id='ElaDru'> 
+    <ime>Ela Družijanić</ime>
+    <zupanija>Grad Zagreb</zupanija>
+    <zadacnice>
+      <materijali id='ElaDru1'>
+        <materijal_primljen> 15.10.2024.</materijal_primljen>
+        <privola_primljena> Čeka se privola škole za sudjelovanje u projektu</privola_primljena>
+        <materijal_transkripcija_pocetak>30.10.2024.</materijal_transkripcija_pocetak>
+        <materijal_transkripcija_osoba>Ana A.</materijal_transkripcija_osoba>
+        <materijal_provjera_pocetak>15.11.2024.</materijal_provjera_pocetak>
+        <broj_obradjenih_materijala>110</broj_obradjenih_materijala>
+        <potrebno_obraditi>0</potrebno_obraditi>
+        <potvrda_uvjet>Da</potvrda_uvjet>
+        <potvrda_steceni_uvjeti>1.12.2025.</potvrda_steceni_uvjeti>
+        <potvrda>
+          <![CDATA[ <p>Čestitamo! 🎉 Vaše strpljenje i trud su se isplatili – došli smo do kraja obrade materijala koje ste nam poslali. Veliko hvala na vašem trudu, vremenu i doprinosu projektu – bez vas ovo ne bi bilo moguće. Vaša potvrda o sudjelovanju sada je spremna i možete je preuzeti. 🏆 <a src="ElaDru1.pdf">POTVRDA</a> Još jednom, hvala što ste dio našeg tima – radujemo se budućoj suradnji! 🌟 </p> ]]>
+        </potvrda>
+      </materijali>
+      <!-- Ako ista osoba pošalje više setova materijala: -->
+      <materijali id='ElaDru2'>
+        <materijal_primljen> 15.10.2024.</materijal_primljen>
+        <privola_primljena> 15.10.2024.</privola_primljena>
+        <materijal_transkripcija_pocetak>30.10.2024.</materijal_transkripcija_pocetak>
+        <materijal_transkripcija_osoba>Petra P.</materijal_transkripcija_osoba>
+        <materijal_provjera_pocetak>15.11.2024.</materijal_provjera_pocetak>
+        <broj_obradjenih_materijala>130</broj_obradjenih_materijala>
+        <potrebno_obraditi>0</potrebno_obraditi>
+        <potvrda_uvjet>Da</potvrda_uvjet>
+        <potvrda_steceni_uvjeti>1.12.2025.</potvrda_steceni_uvjeti>
+        <potvrda>
+          <![CDATA[ <p>Čestitamo! 🎉 Vaše strpljenje i trud su se isplatili – došli smo do kraja obrade materijala koje ste nam poslali. Veliko hvala na vašem trudu, vremenu i doprinosu projektu – bez vas ovo ne bi bilo moguće. Vaša potvrda o sudjelovanju sada je spremna i možete je preuzeti. 🏆 <a src="ElaDru2.pdf">POTVRDA</a> Još jednom, hvala što ste dio našeg tima – radujemo se budućoj suradnji! 🌟 </p> ]]>
+        </potvrda>
+      </materijali>
+	</zadacnice>
+  </nastavnik>
+</nastavnici>
